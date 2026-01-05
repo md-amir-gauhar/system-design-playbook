@@ -37,6 +37,8 @@ The system consists of the following major components:
 
 ## 3. Architecture Overview
 
+![URL Shortener Architecture](../../diagrams/url_shortener.png)
+
 ### Component Responsibilities
 
 #### Client
